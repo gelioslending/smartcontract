@@ -56,21 +56,6 @@ contract ERC20 is ERC20Basic {
 
 contract Pausable is ERC20Basic {
 
-//   uint public constant startPreICO = 1516397400;
-//   uint public constant endPreICO = startPreICO + 30 minutes;
-
-//   uint public constant startICOStage1 = endPreICO + 15 minutes;
-//   uint public constant endICOStage1 = startICOStage1 + 30 minutes;
-
-//   uint public constant startICOStage2 = endICOStage1; 
-//   uint public constant endICOStage2 = startICOStage2 + 30 minutes;
-
-//   uint public constant startICOStage3 = endICOStage2;
-//   uint public constant endICOStage3 = startICOStage3 + 30 minutes;
-
-//   uint public constant startICOStage4 = endICOStage3;
-//   uint public constant endICOStage4 = startICOStage4 + 30 minutes;
-
     uint public constant startPreICO = 1516525200;
     uint public constant endPreICO = startPreICO + 30 days;
     

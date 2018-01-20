@@ -1,6 +1,5 @@
-# Instructions
+# Gelios.io presale: important info
 
-Gelios.io presale: important info
 # OFFICIAL smart-contract address: 0x5c7621f7afb14b9ab20fefede40b428d9b4429f2
 
 Pre-ICO starts January 21st 01:00 PST
